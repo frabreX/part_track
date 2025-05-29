@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc52dc4d-1133-4fbc-be8e-1048b7927aba" name="Changes" comment="19-5-25" />
+    <list default="true" id="fc52dc4d-1133-4fbc-be8e-1048b7927aba" name="Changes" comment="19-5-25">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +42,11 @@
     "last_opened_file_path": "C:/Users/frabr/OneDrive/Desktop/part_track/.venv/Scripts"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\frabr\OneDrive\Desktop\part_track\.venv\Scripts" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Particles_Tracker" />
