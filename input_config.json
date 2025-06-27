@@ -1,0 +1,1 @@
+{"temp": 1.0, "dt": 0.004999999888241291, "tmax": 100.0, "sample_interval": 100, "total_save_interval": 1000, "density": 0.800000011920929, "rc": 2.5, "nx": 3, "ny": 3, "nz": 3, "potential_type": "LJ"}
